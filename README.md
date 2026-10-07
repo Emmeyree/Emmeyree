@@ -1,16 +1,17 @@
-## Hi there 👋
+# Welcome
+Hey, welcome to my GitHub page! While I don't personally code anything, you can find some pretty cool stuff in my [Stars](https://github.com/Emmeyree/Stars).
 
-<!--
-**Emmeyree/Emmeyree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details><summary>More about me</summary>
 
-Here are some ideas to get you started:
+> If you couldn't tell, while I don't code, I love writing README's, and I come back around to GitHub every few minutes to write some.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</details></summary>
+
+# Website
+I have my own website, [emmeyree.com](https://emmeyree.com)!
+
+<details><summary>Additional website detail</summary>
+
+> The website is currently registered and hosted via [Cloudflare](https://cloudflare.com), with no issues so far. I use [LocalWP](https://localwp.com) to build my website, export it through [Staatic](https://staatic.com), and finally end up by uploading it through [Cloudflare Pages](https://pages.cloudflare.com).
+
+</details>
